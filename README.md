@@ -5,8 +5,8 @@
     
 ### Make TEAM_EASY!  We R TEAM_EASY!     
 
-### __DSKim :  Full Stack, AI research__     
-### SJPark : Full Stack [blog](https://blog.naver.com/psajo), [Github](https://github.com/psajo)     
+#### __DSKim :  Full Stack, AI research__     
+#### SJPark : Full Stack [blog](https://blog.naver.com/psajo), [Github](https://github.com/psajo)     
      
      
      
