@@ -31,13 +31,15 @@ Select Champions and Algorism! (Django)
 ## 5. Daily Report    
 ### Added 2020/12/22
 + [2조_프로젝트계획서_김다슬_박상종.docx](https://github.com/AstronomerDS/TEAM_EASY/files/5744195/2._._._.docx)    
-
++ [2조 201222 일일업무보고.pdf](https://github.com/AstronomerDS/TEAM_EASY/files/5744885/2.201222.pdf)
     
         
 ### Added 2020/12/23   
-
++ [2조 201223 일일업무보고.pdf](https://github.com/AstronomerDS/TEAM_EASY/files/5744889/2.201223.pdf)      
     
 ### Added 2020/12/24     
++ [2조_201224_일일업무보고서.pdf](https://github.com/AstronomerDS/TEAM_EASY/files/5744891/2._201224_.pdf)    
+     
     
       
      
