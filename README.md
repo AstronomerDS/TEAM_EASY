@@ -5,8 +5,8 @@
     
 ### Make TEAM_EASY!  We R TEAM_EASY!     
 
-#### __DSKim :  Full Stack Developer, AI Researcher__     
-#### SJPark : Full Stack Developer [blog](https://blog.naver.com/psajo), [Github](https://github.com/psajo)     
++ #### __DSKim :  Full Stack Developer, AI Researcher__     
++ #### SJPark : Full Stack Developer [blog](https://blog.naver.com/psajo), [Github](https://github.com/psajo)     
      
      
      
@@ -22,8 +22,22 @@ Growth of game insdustry by CoV-19
      
 
 
-## 4. MAIN Page
+## 4. MAIN Page (e)
 ![main_page](https://user-images.githubusercontent.com/72715298/103055616-19a17500-45de-11eb-99b5-5e70ab569972.jpg)
 
-Select Champions and Algorism!     
+Select Champions and Algorism! (Django)     
 
+
+## 5. Daily Report    
+### Added 2020/12/22
++ [2조_프로젝트계획서_김다슬_박상종.docx](https://github.com/AstronomerDS/TEAM_EASY/files/5744195/2._._._.docx)    
+
+    
+        
+### Added 2020/12/23   
+
+    
+### Added 2020/12/24     
+    
+      
+     
