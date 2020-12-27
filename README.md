@@ -42,7 +42,7 @@ Select Champions and Algorism! (Django)
      
      
      
-
+---------------------------------
 ### Reference
 + C. Kim et al., 2020, Predicting Win-Loss of League of Legends Using Bidirectional LSTM Embedding   
 + Ani R, 2019, Victory prediction in League of Legend using Feature Selection and Ensemble methods   
