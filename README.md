@@ -48,7 +48,6 @@ Select Champions and Algorism! (Django)
 + Ani R, 2019, Victory prediction in League of Legend using Feature Selection and Ensemble methods   
 + Antonio Luis, et al., 2018, Continuous Outcome Prediction of League of Legends Competitive Matches Using Recurrent Neural Networks   
 + j. Cong, 2020, Prediction of game r esults based on League of Legends
-+ 
     
       
      
