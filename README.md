@@ -40,6 +40,15 @@ Select Champions and Algorism! (Django)
 ### Added 2020/12/24     
 + [2조_201224_일일업무보고서.pdf](https://github.com/AstronomerDS/TEAM_EASY/files/5744891/2._201224_.pdf)    
      
+     
+     
+
+### Reference
++ C. Kim et al., 2020, Predicting Win-Loss of League of Legends Using Bidirectional LSTM Embedding   
++ Ani R, 2019, Victory prediction in League of Legend using Feature Selection and Ensemble methods   
++ Antonio Luis, et al., 2018, Continuous Outcome Prediction of League of Legends Competitive Matches Using Recurrent Neural Networks   
++ j. Cong, 2020, Prediction of game r esults based on League of Legends
++ 
     
       
      
