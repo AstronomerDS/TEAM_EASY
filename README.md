@@ -40,7 +40,8 @@ Select Champions and Algorism! (Django)
 ### Added 2020/12/24     
 + [2조_201224_일일업무보고서.pdf](https://github.com/AstronomerDS/TEAM_EASY/files/5744891/2._201224_.pdf)    
      
-     
+### Added 2020/12/28
+
      
 ---------------------------------
 ### Reference
